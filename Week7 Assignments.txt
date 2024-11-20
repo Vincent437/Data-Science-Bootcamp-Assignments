@@ -1,0 +1,20 @@
+How do you assess the statistical significance of an insight?
+Statistical significance is assessed using hypothesis testing. A p-value is calculated to measure the probability of observing the result under the null hypothesis. If the p-value is below a predefined significance level (e.g., 0.05), the insight is considered statistically significant.
+
+What is the Central Limit Theorem? Explain it. Why is it important?
+The Central Limit Theorem (CLT) states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases, regardless of the population's distribution, provided the samples are independent and identically distributed. It is important because it allows for the use of normal distribution-based methods (e.g., confidence intervals, hypothesis tests) in statistical analysis.
+
+What is the statistical power?
+Statistical power is the probability of correctly rejecting the null hypothesis when it is false (i.e., avoiding a Type II error). Higher power means a greater likelihood of detecting a true effect.
+
+How do you control for biases?
+Biases can be controlled by randomization, blinding (single or double), ensuring proper sampling techniques, using control groups, and accounting for confounding variables in the analysis.
+
+What are confounding variables?
+Confounding variables are extraneous variables that can influence both the independent and dependent variables, potentially leading to misleading associations or conclusions.
+
+What is A/B testing?
+A/B testing is an experimental method to compare two versions of a variable (e.g., a webpage design) to determine which performs better. It involves randomly splitting the audience into two groups (A and B), exposing them to different conditions, and comparing their outcomes.
+
+What are confidence intervals?
+Confidence intervals provide a range of values within which the true population parameter is likely to lie, with a specified level of confidence (e.g., 95%). They give an estimate of the precision of a statistic.
